@@ -1,2 +1,5 @@
-# IMDB Sentiment Analysis
- Deep Learning models for sentiment analysis of IMDB reviews dataset: a comparative approach
+# Ideas  
+ Positive and Negative Sentiment states:
+ Identify common themes in positive and negative reviews.  
+ Analyze the transition between positive and negative sentiment within single review.  
+
