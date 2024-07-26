@@ -13,3 +13,6 @@
 # Methodology  
  Training different models starting from simple Logistic Regression, Multi-Layer Perceptron (MLP) to advanced models like Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM) and Transformers to compare 
  the accuracy of classification.  
+
+# Workflow  
+![Screenshot (3598)](https://github.com/user-attachments/assets/bc939097-e6ff-4c95-b06e-7222af0ae4bc)
